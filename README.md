@@ -1,10 +1,3 @@
-### My stats
-
-<p align= "">
-  <img align= "" src=https://github-readme-stats.vercel.app/api?username=rFemicidio&show_icons=true&theme=graywhite)>
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rFemicidio&theme=graywhite&langs_count=8)
-
 ## :scroll: SoyPabloski Profile
 
 - Experienced programmer focused on his work 
