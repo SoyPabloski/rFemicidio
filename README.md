@@ -5,7 +5,7 @@
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=rFemicidio&theme=graywhite&langs_count=8)
 
-## :scroll: rFemicidio Profile
+## :scroll: SoyPabloski Profile
 
 - Experienced programmer focused on his work 
 - Not well known but also not interested in being
@@ -22,11 +22,7 @@
 [![Java](https://img.shields.io/badge/Java-FE9A2E?style=for-the-badge&logo=javat&logoColor=white)](https://www.java.com/)
 [![NodeJs](https://img.shields.io/badge/JavaScript-00ff5e?style=for-the-badge&logo=javascript&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-00ffe5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![C++](https://img.shields.io/badge/C++-b1890?style=for-the-badge&logo=c++&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-01dfd7?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8181F7?style=for-the-badge&logo=php&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0174DF?style=for-the-badge&logo=css&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-0174DF?style=for-the-badge&logo=lua&logoColor=white)
 ## :pager: technology
 
 ![Git](https://img.shields.io/badge/Git-FE9A2E?style=for-the-badge&logo=git&logoColor=white)
@@ -43,7 +39,7 @@
 
 ## :earth_americas: Social networks 
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rFemicidio)
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoyPabloski)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rFemicidio)
 [![Instagram](https://img.shields.io/badge/Instagram-ff00d9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soy.pabloe/)
 [![Discord](https://img.shields.io/badge/Discord-4c00ff?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/650846390712401920/)
